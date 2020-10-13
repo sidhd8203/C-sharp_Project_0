@@ -1,0 +1,15 @@
+E:\회사\나우캠퍼스\온라인자율대학강의\무료강좌\C# 언어\소스\7강\SmartRiceCooker00\SmartRiceCooker00\bin\Debug\SmartRiceCooker00.exe.config
+E:\회사\나우캠퍼스\온라인자율대학강의\무료강좌\C# 언어\소스\7강\SmartRiceCooker00\SmartRiceCooker00\bin\Debug\SmartRiceCooker00.exe
+E:\회사\나우캠퍼스\온라인자율대학강의\무료강좌\C# 언어\소스\7강\SmartRiceCooker00\SmartRiceCooker00\bin\Debug\SmartRiceCooker00.pdb
+E:\회사\나우캠퍼스\온라인자율대학강의\무료강좌\C# 언어\소스\7강\SmartRiceCooker00\SmartRiceCooker00\obj\Debug\SmartRiceCooker00.csprojResolveAssemblyReference.cache
+E:\회사\나우캠퍼스\온라인자율대학강의\무료강좌\C# 언어\소스\7강\SmartRiceCooker00\SmartRiceCooker00\obj\Debug\SmartRiceCooker00.exe
+E:\회사\나우캠퍼스\온라인자율대학강의\무료강좌\C# 언어\소스\7강\SmartRiceCooker00\SmartRiceCooker00\obj\Debug\SmartRiceCooker00.pdb
+C:\Users\app_choi\Desktop\SmartRiceCooker00\SmartRiceCooker00\bin\Debug\SmartRiceCooker00.exe.config
+C:\Users\app_choi\Desktop\SmartRiceCooker00\SmartRiceCooker00\obj\Debug\SmartRiceCooker00.exe
+C:\Users\app_choi\Desktop\SmartRiceCooker00\SmartRiceCooker00\obj\Debug\SmartRiceCooker00.pdb
+C:\Users\app_choi\Desktop\SmartRiceCooker00\SmartRiceCooker00\bin\Debug\SmartRiceCooker00.exe
+C:\Users\app_choi\Desktop\SmartRiceCooker00\SmartRiceCooker00\bin\Debug\SmartRiceCooker00.pdb
+C:\Users\app_choi\Desktop\SmartRiceCooker00\SmartRiceCooker00\obj\Debug\SmartRiceCooker00.csprojResolveAssemblyReference.cache
+C:\Users\app_choi\Desktop\SmartRiceCooker00（翻訳）\SmartRiceCooker00\bin\Debug\SmartRiceCooker00.exe.config
+C:\Users\app_choi\Desktop\SmartRiceCooker00（翻訳）\SmartRiceCooker00\obj\Debug\SmartRiceCooker00.exe
+C:\Users\app_choi\Desktop\SmartRiceCooker00（翻訳）\SmartRiceCooker00\obj\Debug\SmartRiceCooker00.pdb
